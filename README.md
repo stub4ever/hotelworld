@@ -1,14 +1,13 @@
-# Hotelworld
+# DB
 
-## DB
+  Design your tables (DONE)
+  Create the migrations
+  Run them
+  Create the models
+  Create the seeds
 
-- Design your tables (DONE)
-- Create the migrations
-- Run them
-- Create the models
-- Create the seeds
+# Sinatra
 
-## Sinatra
+  List all hotels
+  View one hotel
 
-- List all hotels
-- View one hotel
